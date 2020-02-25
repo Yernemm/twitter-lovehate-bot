@@ -1,0 +1,6 @@
+I like ##.
+I love ##!
+I don't like ##.
+I hate ##!
+I don't care about ##.
+## sucks.
