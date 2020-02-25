@@ -1,6 +1,22 @@
+I like a ##.
+I love a ##!
+I don't like a ##.
+I hate a ##!
+I like the ##.
+I love the ##!
+I don't like the ##.
+I hate the ##!
+I don't care about the ##.
 I like ##.
 I love ##!
 I don't like ##.
 I hate ##!
 I don't care about ##.
 ## sucks.
+========
+I like ##.
+I love ##!
+I don't like ##.
+I hate a ##!
+I don't care about ##.
+## suck.
