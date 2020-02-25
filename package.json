@@ -1,0 +1,25 @@
+{
+  "name": "twitter-lovehate-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "pluralize": "^8.0.0",
+    "twit": "^2.2.11",
+    "twitter-oauth": "^0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yernemm/twitter-lovehate-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yernemm/twitter-lovehate-bot/issues"
+  },
+  "homepage": "https://github.com/Yernemm/twitter-lovehate-bot#readme"
+}
